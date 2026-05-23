@@ -11,7 +11,7 @@ tags: [offering, retainer, core, headline]
 
 **Price:** $7,000/month
 **Format:** Ongoing monthly consulting retainer
-**Who it's for:** Established creator educators with a real list and revenue ($500K+) — see [Ideal Client Profile](../icp-and-market/ideal-client-profile.md)
+**Who it's for:** Founder-led businesses with a real list, real revenue, and obvious email upside — see [Ideal Client Profile](../icp-and-market/ideal-client-profile.md)
 **Current pipeline:** 3 active, +1 closing soon. **Goal: 6 by July 2026** (need 3 net-new). See 2026 Revenue Goal.
 
 ## What it includes

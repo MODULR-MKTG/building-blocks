@@ -31,11 +31,11 @@ DFY  → [Email Consulting](email-consulting.md)              $7,000/month  ★ 
 **[Email Consulting](email-consulting.md)** — $7K/month. **The headline product.**
 
 - Ongoing consulting retainer
-- MODULR drives the email program; client owns strategy/voice approval
-- Sized for established creator educators ($500K+)
+- MODULR drives the email system; client owns strategy/voice approval
+- Best fit for established founder-led businesses with meaningful revenue at stake
 
 ## Sidecar offering (not on the ladder)
-**[Find Your Authority Sprint](find-your-authority-sprint.md)** — $1.5K, for pre/early-stage newsletter creators who aren't yet ready for the DWY/DFY path.
+**[Find Your Authority Sprint](find-your-authority-sprint.md)** — $1.5K, for early-stage brands building authority who aren't yet ready for the DWY/DFY path.
 
 ## Why this framing matters
 - One clear shelf for every prospect — no menu confusion

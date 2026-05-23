@@ -5,15 +5,15 @@ tags: [partnerships, gtm]
 
 # Referral Partners
 
-People who already serve creator educators and would refer email work to MODULR.
+People who already serve founder-led businesses and would refer email work to MODULR.
 
 ## Partner archetypes
 
 | Partner type | What they do | Referral trigger |
 |--------------|--------------|------------------|
-| Course launch strategists | Build launches | "Email sequence needs work" |
-| Community builders | Grow memberships | "Onboarding emails underperforming" |
-| Funnel consultants | Build funnels | "Email conversion is the gap" |
+| Growth / RevOps consultants | Build revenue systems | "Email conversion is the gap" |
+| Funnel consultants | Build funnels | "Email sequence needs work" |
+| Lifecycle / CRM strategists | Improve retention and nurture | "Onboarding emails underperforming" |
 | Content strategists | Plan content | "Email is the weak link" |
 
 ## Action target
