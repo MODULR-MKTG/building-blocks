@@ -22,4 +22,4 @@ After that, browse anything that catches your eye — [Proof](proof/), the rest 
 
 MODULR is young. We're not going to win by out-publishing everyone. So instead we work in the open: you can read our actual playbook before you ever talk to us. No gated PDF, no "book a call to find out how we work."
 
-If that's the kind of company you'd want handling your email — welcome. Read on.
+If that's the kind of company you'd want building your email system with you, welcome. Read on.

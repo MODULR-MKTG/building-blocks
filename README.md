@@ -2,9 +2,9 @@
 
 > We're not ones to gatekeep. Here is our entire company operating system.
 
-This is the public handbook for **[MODULR](https://www.gomodulr.com)** — an anti-boring email agency that drives revenue for creator educators.
+This is the public handbook for **[MODULR](https://www.gomodulr.com)** — a revenue-first email systems company for founder-led businesses that know their emails should be doing more.
 
-Most agencies hide how they work behind a "book a call." We don't. Everything about *how MODULR operates* — our values, our methodology, our positioning, how we sell, what we believe about email — lives here, in the open, for anyone to read. If you're thinking about working with us, you can see exactly what you'd get before you ever talk to us.
+Most agencies hide how they work behind a "book a call." We don't. Everything about *how MODULR operates* — our values, methodology, positioning, how we sell, and what we believe about email, systems, and AI — lives here, in the open, for anyone to read. If you're thinking about working with us, you can see exactly what you'd get before you ever talk to us.
 
 We took the idea from [PostHog](https://posthog.com/handbook), who run their whole company in public. We're a two-founder shop, not a 500-person company — but the principle scales down: **the place we work and the place you read about us should be the same place.**
 

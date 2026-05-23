@@ -5,19 +5,19 @@ tags: [positioning, core]
 
 # Positioning Statement
 
-> **"We specialize in anti-boring email campaigns that drive 6-figure revenue for creator educators who know their emails could be producing more."**
+> **"We build revenue-first email systems for founder-led businesses who know their emails should be producing more."**
 
 ## Breakdown ([PGA Framework](pga-framework.md))
 
 | Element | MODULR | Why it works |
 |---------|--------|--------------|
-| **Type** | "anti-boring email" | Distinctive, memorable, matches brand |
-| **Service** | "campaigns that drive 6-figure revenue" | Outcome-anchored, not deliverable-anchored |
-| **Industry** | "creator educators" | Clear enough to target, broad enough to grow |
-| **WHO** | "who know their emails could be producing more" | Pre-qualifies by mindset |
+| **Type** | "revenue-first email systems" | Broad enough for where MODULR is going, specific enough to signal a point of view |
+| **Service** | "build" | Systems language implies implementation, not just advice |
+| **Industry** | "founder-led businesses" | Clearer than generic, less restrictive than the old wedge |
+| **WHO** | "who know their emails should be producing more" | Pre-qualifies by mindset |
 
 ## The mindset qualifier
-"Who know their emails could be producing more" filters out:
+"Who know their emails should be producing more" filters out:
 - People who think their emails are fine (hard sell)
 - People who don't care about email (wrong fit)
 

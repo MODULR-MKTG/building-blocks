@@ -7,33 +7,33 @@ tags: [icp, sales, core]
 
 The shape of client MODULR is built to serve.
 
-## Established creator educator (primary)
-The core ICP — the "creator educators who know their emails could be producing more."
+## Revenue-minded founder-led business (primary)
+The core ICP — businesses with expertise, audience, or trust already in the market, but email is underperforming relative to the opportunity.
 
 | Trait | Detail |
 |-------|--------|
-| Stage | Established (1+ year publishing, 5K+ subscribers) |
-| Revenue | $500K+ |
-| Need | "My emails don't convert" / "Engagement is fine, revenue is flat" |
-| Pain | Low revenue per subscriber |
+| Stage | Established business with an active list, audience, or owned channel |
+| Revenue | Usually $500K+ |
+| Need | "My emails don't convert" / "Engagement is fine, revenue is flat" / "We send, but there is no real system behind it" |
+| Pain | Low revenue per subscriber, inconsistent lifecycle, underbuilt monetization |
 | Engagement type | [Strategy Workshop and Audit](../offerings/strategy-workshop-and-audit.md) → [Email Consulting](../offerings/email-consulting.md) |
-| Outcome | Higher conversion, more revenue per send |
+| Outcome | Higher conversion, stronger lifecycle, more revenue from email |
 
-## Pre/early newsletter (secondary, via [Find Your Authority Sprint](../offerings/find-your-authority-sprint.md))
+## Early-stage authority builder (secondary, via [Find Your Authority Sprint](../offerings/find-your-authority-sprint.md))
 | Trait | Detail |
 |-------|--------|
-| Stage | Pre-newsletter OR <6 months in |
+| Stage | Pre-newsletter OR early-stage owned media buildout |
 | Revenue | $200K–$1M |
-| Need | "What should I write about?" / unclear positioning |
+| Need | "What should I say?" / unclear positioning / no authority system yet |
 | Pain | Inconsistent publishing, no authority defined |
 | Engagement type | [Find Your Authority Sprint](../offerings/find-your-authority-sprint.md) ($1,500) |
-| Outcome | Authority + framework for independence |
+| Outcome | Authority + framework for consistent publishing |
 
 ## What they share
-- Audience-building via content
-- Email is or will be a primary revenue channel
-- Info-product / digital course business model
-- Need to convert attention into sales without "salesy"
+- Email is or will be a meaningful revenue channel
+- They have expertise, audience, trust, or distribution that is not being fully monetized
+- They need systems, not one-off copy fixes
+- They want clearer thinking, stronger execution, and less black-box marketing
 - See [Client Constellation](../positioning/client-constellation.md) for the adjacency map
 
 ## Mindset qualifier (filters in vs. out)
