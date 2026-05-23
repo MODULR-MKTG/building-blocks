@@ -25,7 +25,7 @@ Quick reference for current MODULR pricing. **Headline: $7K/mo [Email Consulting
 - For inbound: under-charging is the more common error.
 
 ## Math to $300K
-See 2026 Revenue Goal:
+See [2026 Vision](../values/2026-vision.md):
 - **4 clients × $7K/mo × 12 = $336K** (the cleanest path now)
 - 3 retainers + ~10 workshops + 6 FYA sprints ≈ $300K
 - 200 [Find Your Authority Sprint](find-your-authority-sprint.md)s = $300K (volume-only path)
@@ -35,4 +35,4 @@ See 2026 Revenue Goal:
 - [Email Consulting](email-consulting.md)
 - [Strategy Workshop and Audit](strategy-workshop-and-audit.md)
 - [Discovery Call Framework](../sales/discovery-call-framework.md)
-- 2026 Revenue Goal
+- [2026 Vision](../values/2026-vision.md)

@@ -74,6 +74,4 @@ P.S. [One more specific callout or compliment]
 
 ## Related
 - [Sales Funnel](sales-funnel.md)
-- Free Loom Audit
 - [Discovery Call Framework](discovery-call-framework.md)
-- Founder-Led Outreach Pipeline

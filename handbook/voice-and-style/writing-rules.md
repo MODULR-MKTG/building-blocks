@@ -5,7 +5,7 @@ tags: [voice, writing, core]
 
 # Writing Rules
 
-Hard rules for any MODULR-written content. Source: `2-areas/business-operations/writing-rules.md`.
+Hard rules for any MODULR-written content.
 
 ## Patterns NEVER to use
 

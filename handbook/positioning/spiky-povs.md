@@ -5,7 +5,7 @@ tags: [positioning, beliefs, core]
 
 # Spiky POVs
 
-The 4 core beliefs that filter, magnetize, and shape every piece of MODULR content. From the About page; should move to homepage hero (see Homepage Spiky POV Plan).
+The 4 core beliefs that filter, magnetize, and shape every piece of MODULR content. From the About page; a candidate for the homepage hero.
 
 ## 1. Revenue > Vanity Metrics ⭐ STRONGEST
 > "We don't care about your open rates. Well, maybe a little. But a 2.7% conversion rate beats a 40% open rate every single time."

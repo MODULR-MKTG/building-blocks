@@ -8,7 +8,7 @@ source: Jay Acunzo
 
 Source: Jay Acunzo. The marketing must match the model.
 
-**MODULR is a consultant business.** $2K–5K engagements for sophisticated buyers. Marketing should be relationship-centric, not traffic-based.
+**MODULR is a consultant business.** $2K–$7K engagements for sophisticated buyers. Marketing should be relationship-centric, not traffic-based.
 
 ## Creator vs Consultant
 

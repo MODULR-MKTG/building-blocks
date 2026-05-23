@@ -28,11 +28,11 @@ tags: [newsletter, voice, sales]
 - Top 3 problems: no hook, no proof, no clear action
 - CTA: browse the public scoring database at email.gomodulr.com → Email Scoring Database
 
-## Email 4: The Audit Offer (Day 6)
-- **Subject:** We'll audit your emails for free. Here's the catch.
-- **Preview:** There isn't one, actually.
-- Pitches the Free Loom Audit
-- CTA: reply "AUDIT"
+## Email 4: The Offer (Day 6)
+- **Subject:** Want a second set of eyes on your emails?
+- **Preview:** No catch. Just a fit check.
+- Invites a short fit conversation → [Discovery Call](../sales/discovery-call-framework.md) → $2K [Strategy Workshop and Audit](../offerings/strategy-workshop-and-audit.md)
+- CTA: reply to start the conversation
 
 ## Open questions
 - [ ] Is write.gomodulr.com live and working?
@@ -45,11 +45,9 @@ tags: [newsletter, voice, sales]
 - Email 1: reply rate
 - Email 2: click rate on scoring tool
 - Email 3: reply rate
-- Email 4: "AUDIT" reply rate (conversion event)
+- Email 4: reply rate (conversion event)
 
 ## Related
 - [This Should Have Been an Email](this-should-have-been-an-email.md)
-- Free Loom Audit
-- MODULR Writer Tool
-- Email Scoring Database
+- [Free Tools](../offerings/free-tools.md)
 - [Newsletter Format](newsletter-format.md)

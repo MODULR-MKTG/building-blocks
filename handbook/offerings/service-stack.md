@@ -51,4 +51,5 @@ The MODULR product stack — three tiers, one ladder. See [DIY DWY DFY Model](di
 - [MODULR Marketplace](modulr-marketplace.md) — DIY
 - [Pricing Anchors](pricing-anchors.md)
 - [Sales Funnel](../sales/sales-funnel.md)
-- 2026 Revenue Goal
+- [Free Tools](free-tools.md)
+- [2026 Vision](../values/2026-vision.md)

@@ -5,7 +5,7 @@ tags: [methodology, scoring]
 
 # Email Scoring Rubric
 
-How MODULR scores every email — the basis for the Free Loom Audit, MODULR Writer Tool, and client deliverables.
+How MODULR scores every email — the basis for the [MODULR Writer](../offerings/free-tools.md) tool, the [Strategy Workshop and Audit](../offerings/strategy-workshop-and-audit.md), and client deliverables.
 
 ## Scoring model
 Score each [MODULR Method](modulr-method.md) component **0–2**:
@@ -37,7 +37,7 @@ Normalized − boring penalties = Final score /10
 - Engagement (builds relationship for future offers)
 - None (warning sign)
 
-## Diagnostic priority (when scoring <18)
+## Diagnostic priority (when scoring below 7/10)
 1. No revenue path? Fix that first. Nothing else matters.
 2. Weak CTA? Fix next — no action = no conversion.
 3. Weak hook? Fix next — won't get read.
@@ -46,5 +46,5 @@ Normalized − boring penalties = Final score /10
 ## Related
 - [MODULR Method](modulr-method.md)
 - [3 Types of Boring Email](../positioning/3-types-of-boring-email.md)
-- MODULR Writer Tool
+- [Free Tools](../offerings/free-tools.md)
 - [Email Scoring Rubric Improvements](email-scoring-rubric-improvements.md)

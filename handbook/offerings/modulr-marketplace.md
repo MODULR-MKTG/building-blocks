@@ -34,5 +34,4 @@ The DIY layer of the MODULR product stack. Packages MODULR's frameworks and tool
 - [MODULR Method](../methodology/modulr-method.md)
 - [Email Scoring Rubric](../methodology/email-scoring-rubric.md)
 - [Service Stack](service-stack.md)
-- write.gomodulr.com
-- email.gomodulr.com
+- [Free Tools](free-tools.md)

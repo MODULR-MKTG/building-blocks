@@ -9,7 +9,7 @@ tags: [offering, product]
 
 **Price:** $1,500 (validation pilots possible at $1K)
 **Format:** 6-week self-directed sprint
-**Brandon's time per client:** 30 minutes (kickoff call only)
+**Braden's time per client:** 30 minutes (kickoff call only)
 **Team time per client:** ~3–4 hours
 **Status:** In development; validating with early pilot clients.
 
@@ -38,7 +38,7 @@ Upgrade path (when the client matures):
 $1.5K FYA Sprint → $2K [Strategy Workshop and Audit](strategy-workshop-and-audit.md) → $7K/mo [Email Consulting](email-consulting.md)
 
 ## Economics
-- 200 sprints/year = $300K (hits 2026 Revenue Goal)
+- 200 sprints/year = $300K (hits the 2026 target)
 - Team cost per engagement ~$150–300
 - Strong margin
 

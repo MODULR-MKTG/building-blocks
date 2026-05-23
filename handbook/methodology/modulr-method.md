@@ -31,7 +31,7 @@ R → REVENUE     How this email connects to money
 
 ## What it powers
 - [Email Scoring Rubric](email-scoring-rubric.md) — apply the framework as a 0–2 score per element
-- MODULR Writer Tool — AI-powered scorer at write.gomodulr.com
+- [MODULR Writer](../offerings/free-tools.md) — AI-powered scorer at write.gomodulr.com
 - [Find Your Authority Sprint](../offerings/find-your-authority-sprint.md) — used to score clients' first 3 issues
 - [Email Consulting](../offerings/email-consulting.md) — applied to every email reviewed under the retainer
 - [Strategy Workshop and Audit](../offerings/strategy-workshop-and-audit.md) — scoring framework for the workshop audit deliverable

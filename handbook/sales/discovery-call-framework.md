@@ -43,7 +43,6 @@ Follow up **forever**. Not 1 follow-up. Until explicit "no."
 
 ## Related
 - [Sales Funnel](sales-funnel.md)
-- Free Loom Audit
 - [Outreach Playbook](outreach-playbook.md)
 - [Pain Pleasure Bridge](../methodology/pain-pleasure-bridge.md)
 - [Pricing Anchors](../offerings/pricing-anchors.md)

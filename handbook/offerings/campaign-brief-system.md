@@ -27,7 +27,7 @@ Compares to Dickie/Cole's 3P Framework ($27). 10x value at $19.
 Not the $19. It's:
 - List building
 - Trust building
-- Service pipeline (every buyer is a warm lead for $2K–$5K work)
+- Service pipeline (every buyer is a warm lead for $2K–$7K work)
 
 ## Upsell ladder
 - Order bump: $97 brief audit (Loom review of completed brief)
@@ -40,7 +40,7 @@ Not the $19. It's:
 - Aggressive (1,000/mo): $19,000/mo
 
 ## Build time
-2–3 weeks if focused. See `2-areas/product/campaign-brief-product/`.
+2–3 weeks if focused.
 
 ## Related
 - [Service Stack](service-stack.md)

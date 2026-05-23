@@ -36,6 +36,4 @@ For lifestyle:
 - Build community or isolation?
 
 ## Related
-- 2026 Revenue Goal
-- 2026 Hiring Plan
 - [Positioning Statement](../positioning/positioning-statement.md)

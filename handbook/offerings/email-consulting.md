@@ -12,7 +12,7 @@ tags: [offering, retainer, core, headline]
 **Price:** $7,000/month
 **Format:** Ongoing monthly consulting retainer
 **Who it's for:** Founder-led businesses with a real list, real revenue, and obvious email upside — see [Ideal Client Profile](../icp-and-market/ideal-client-profile.md)
-**Current pipeline:** 3 active, +1 closing soon. **Goal: 6 by July 2026** (need 3 net-new). See 2026 Revenue Goal.
+**Current pipeline:** 3 active, +1 closing soon. **Goal: 6 by July 2026** (need 3 net-new). See [2026 Vision](../values/2026-vision.md).
 
 ## What it includes
 - Ongoing email strategy and optimization
@@ -20,13 +20,13 @@ tags: [offering, retainer, core, headline]
 - Strategic input on cadence, sequences, campaigns, positioning of every send
 - Application of [3 Types of Boring Email](../positioning/3-types-of-boring-email.md) diagnosis + fixes
 - Ongoing access to MODULR's frameworks, voice rules, and proprietary tooling
-- Engagement / revenue analysis when needed — see Engagement Analysis Playbook
+- Engagement / revenue analysis when needed
 
 ## How clients enter
 Through the [Strategy Workshop and Audit](strategy-workshop-and-audit.md) ($2K). The workshop is the structured intake; the consulting retainer is the ongoing engagement.
 
 ```
-Free Loom Audit  →  $2K Strategy Workshop + Audit  →  $7K/mo Email Consulting
+$2K Strategy Workshop + Audit  →  $7K/mo Email Consulting
 ```
 
 ## Sold as alternative to

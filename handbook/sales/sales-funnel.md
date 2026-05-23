@@ -27,11 +27,10 @@ Engagement starts (workshop or retainer)
 5. **LinkedIn proof-of-work content** (not creator-style audience building — see [Creator vs Consultant Model](../positioning/creator-vs-consultant-model.md))
 
 ## Funnel math
-- 10 outreaches/wk → 25–30% response → 2–3 audits/wk → ~1–2 closes/mo @ $2–5K
+- 10 outreaches/wk → 25–30% response → 2–3 audits/wk → ~1–2 closes/mo @ $2K–$7K
 - Annual: 12–24 closes minimum at this volume
 
 ## Related
 - [Outreach Playbook](outreach-playbook.md)
-- Free Loom Audit
 - [Discovery Call Framework](discovery-call-framework.md)
-- 2026 Revenue Goal
+- [2026 Vision](../values/2026-vision.md)

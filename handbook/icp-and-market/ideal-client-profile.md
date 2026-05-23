@@ -47,7 +47,7 @@ The core ICP — businesses with expertise, audience, or trust already in the ma
 - "Our open rates are dropping"
 - "We're sending more but converting less"
 
-## Volume to hit 2026 Revenue Goal
+## Volume to hit the 2026 target
 - **4 [Email Consulting](../offerings/email-consulting.md) clients × $7K/mo × 12 = $336K** (cleanest path)
 - 3 retainers + ~10 [Strategy Workshop and Audit](../offerings/strategy-workshop-and-audit.md) + 6 FYA sprints ≈ $300K
 - 200 [Find Your Authority Sprint](../offerings/find-your-authority-sprint.md)s = $300K (volume-only)
@@ -55,5 +55,4 @@ The core ICP — businesses with expertise, audience, or trust already in the ma
 ## Related
 - [Positioning Statement](../positioning/positioning-statement.md)
 - [Client Constellation](../positioning/client-constellation.md)
-- Creator Outreach Pipeline
 - [Service Stack](../offerings/service-stack.md)

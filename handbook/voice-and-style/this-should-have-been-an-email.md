@@ -21,4 +21,4 @@ MODULR's flagship newsletter on Beehiiv. Cadence: weekly.
 - [Welcome Sequence](welcome-sequence.md)
 - [Newsletter Format](newsletter-format.md)
 - [Writing Rules](writing-rules.md)
-- 2026 Revenue Goal (ROCK 3: 13 issues per quarter)
+- [2026 Vision](../values/2026-vision.md)

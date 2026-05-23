@@ -5,7 +5,7 @@ tags: [methodology, sales]
 
 # Pain Pleasure Bridge
 
-Sales framework used in MODULR outreach and discovery. Used in Free Loom Audit structure and discovery calls.
+Sales framework used in MODULR outreach and discovery calls.
 
 ```
 Pain Island → Pleasure Island → Bridge
@@ -18,4 +18,3 @@ Pain Island → Pleasure Island → Bridge
 ## Related
 - [Sales Funnel](../sales/sales-funnel.md)
 - [Discovery Call Framework](../sales/discovery-call-framework.md)
-- Free Loom Audit
