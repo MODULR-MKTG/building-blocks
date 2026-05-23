@@ -1,2 +1,55 @@
-# building-blocks
-We're not ones to gatekeep. Here is our entire company operating system. 
+# MODULR Building Blocks
+
+> We're not ones to gatekeep. Here is our entire company operating system.
+
+This is the public handbook for **[MODULR](https://www.gomodulr.com)** — an anti-boring email agency that drives revenue for creator educators.
+
+Most agencies hide how they work behind a "book a call." We don't. Everything about *how MODULR operates* — our values, our methodology, our positioning, how we sell, what we believe about email — lives here, in the open, for anyone to read. If you're thinking about working with us, you can see exactly what you'd get before you ever talk to us.
+
+We took the idea from [PostHog](https://posthog.com/handbook), who run their whole company in public. We're a two-founder shop, not a 500-person company — but the principle scales down: **the place we work and the place you read about us should be the same place.**
+
+## Our values
+
+Four words run this company. Everything else is downstream of them. → **[Read the values](handbook/values/modulr-values.md)**
+
+- **Own** — we own the inputs and the outcomes that come from them.
+- **Do good** — we use our influence on the people and communities around us well.
+- **Default alive** — we never over-extend the business to chase profits.
+- **Weird** — we're running our own race. We don't have to justify it to anyone.
+
+## Start here
+
+New here? Read **[handbook/00-start-here.md](handbook/00-start-here.md)** — it's a ~30-minute reading order that takes you through how MODULR works, start to finish.
+
+## What's in the handbook
+
+| Section | What's in it |
+|---------|--------------|
+| [Company](handbook/company/) | What MODULR is, who runs it |
+| [Values](handbook/values/) | What we believe and how we operate |
+| [Positioning](handbook/positioning/) | Our premise, POV, and the Three Motions model |
+| [Methodology](handbook/methodology/) | The MODULR Method, our scoring rubric, our frameworks |
+| [ICP & Market](handbook/icp-and-market/) | Who we serve |
+| [Voice & Style](handbook/voice-and-style/) | How we write |
+| [Offerings](handbook/offerings/) | What we sell and what it costs |
+| [Sales](handbook/sales/) | How we sell — the actual playbooks |
+| [Proof](handbook/proof/) | The credibility behind the claims |
+
+## What's deliberately NOT here
+
+We're radically open about *how* we work. We are absolutely private about *who* we work with. You will never find in this repo:
+
+- Client names or any client data
+- Prospect or target lists
+- Individual compensation or our revenue numbers
+- Anything covered by a client NDA
+
+We show you the **how**, never another client's **who**. See [CONTRIBUTING.md](CONTRIBUTING.md) for the rule we hold ourselves to.
+
+## A note on how this is maintained
+
+MODULR is an AI-first company. This handbook is largely maintained by AI agents working from our internal source of truth, with the founders reviewing. If you spot something wrong, outdated, or just want to say hi: open an issue.
+
+---
+
+*MIT licensed. Steal anything useful.*
