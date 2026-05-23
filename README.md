@@ -25,7 +25,7 @@ New here? Read **[handbook/00-start-here.md](handbook/00-start-here.md)** — it
 
 | Section | What's in it |
 |---------|--------------|
-| [Company](handbook/company/) | What MODULR is, who runs it |
+| [Company](handbook/company/) | What MODULR is, who runs it, and how agents operate |
 | [Values](handbook/values/) | What we believe and how we operate |
 | [Positioning](handbook/positioning/) | Our premise, POV, and the Three Motions model |
 | [Methodology](handbook/methodology/) | The MODULR Method, our scoring rubric, our frameworks |

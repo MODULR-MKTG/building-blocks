@@ -5,8 +5,9 @@ This is how MODULR works, start to finish. Read in this order and you'll have th
 ## The reading order
 
 1. **[Company → MODULR](company/modulr.md)** — what we are, in one page.
-2. **[Values](values/modulr-values.md)** — Own, Do good, Default alive, Weird. Start here if you want to know who you'd actually be working with. Everything else is downstream of these.
-3. **[Positioning → IP Pyramid](positioning/ip-pyramid.md)** — the premise everything builds on: *revenue-first email*.
+2. **[Company → Agent Constitution](company/agent-constitution.md)** — how MODULR uses agents, where they have authority, and what standards they operate under.
+3. **[Values](values/modulr-values.md)** — Own, Do good, Default alive, Weird. Start here if you want to know who you'd actually be working with. Everything else is downstream of these.
+4. **[Positioning → IP Pyramid](positioning/ip-pyramid.md)** — the premise everything builds on: *revenue-first email*.
 4. **[Positioning → Positioning Statement](positioning/positioning-statement.md)** + **[Spiky POVs](positioning/spiky-povs.md)** — how we describe ourselves and what we actually believe.
 5. **[Positioning → Three Motions](positioning/three-motions.md)** — product / service / sponsorship. The lens we put on every newsletter business.
 6. **[Methodology → MODULR Method](methodology/modulr-method.md)** + **[Email Scoring Rubric](methodology/email-scoring-rubric.md)** — the core framework and how we score every email.
