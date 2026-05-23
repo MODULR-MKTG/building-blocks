@@ -23,12 +23,12 @@ The MODULR product stack — three tiers, one ladder. See [DIY DWY DFY Model](di
 ┌─ DFY ★ HEADLINE PRODUCT ───────── $7,000/month ───┐
 │ [Email Consulting](email-consulting.md)                              │
 │ Ongoing consulting retainer                       │
-│ Established creator educators ($500K+ revenue)    │
+│ Founder-led businesses with real email upside     │
 └───────────────────────────────────────────────────┘
 ```
 
 **Sidecar (different ICP):**
-[Find Your Authority Sprint](find-your-authority-sprint.md) — $1,500. For pre/early-stage newsletter creators not yet ready for DWY/DFY.
+[Find Your Authority Sprint](find-your-authority-sprint.md) — $1,500. For early-stage brands building authority who are not yet ready for DWY/DFY.
 
 ## What MODULR sells in 2026
 | Tier | Offer | Price | Status |

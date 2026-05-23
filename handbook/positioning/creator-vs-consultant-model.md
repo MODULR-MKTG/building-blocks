@@ -21,12 +21,12 @@ Source: Jay Acunzo. The marketing must match the model.
 | Followers, engagement | Clients, retention |
 
 ## The trap
-Content that wins on LinkedIn ("5 email tips") often repels MODULR's ideal clients. The $500K+ creator educator scrolls past viral content and thinks "too basic for me."
+Content that wins on LinkedIn ("5 email tips") often repels MODULR's ideal clients. The serious founder with real revenue at stake scrolls past viral content and thinks "too basic for me."
 
 ## The filter for any marketing activity
-1. Does this build relationships with potential $5K clients?
+1. Does this build relationships with potential high-value clients?
 2. Does this scale with relationship depth, not audience size?
-3. Would a $500K+ client respect this, or scroll past?
+3. Would a serious operator respect this, or scroll past?
 
 ## Related
 - [IP Pyramid](ip-pyramid.md)

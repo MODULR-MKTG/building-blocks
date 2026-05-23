@@ -8,10 +8,10 @@ tags: [market, icp]
 The categories MODULR sits in (for SEO, positioning, sales context).
 
 ## Primary
-- **Email marketing strategy** for creator educators
-- **Email copywriting / ghostwriting**
-- **Newsletter ghostwriting**
-- **Email consulting retainers** (creator educators)
+- **Revenue-first email systems**
+- **Email marketing strategy**
+- **Email consulting retainers**
+- **Lifecycle / newsletter strategy**
 
 ## Adjacent (where prospects are likely shopping)
 - Marketing agencies (general)
@@ -21,7 +21,7 @@ The categories MODULR sits in (for SEO, positioning, sales context).
 - AI-for-email tools
 
 ## Why MODULR wins these comparisons
-- Specialized type ("anti-boring") vs commodity "email writer" → [PGA Framework](../positioning/pga-framework.md)
+- Specialized type ("revenue-first email systems") vs commodity "email writer" → [PGA Framework](../positioning/pga-framework.md)
 - Proven scale (IWT) vs unverified claims → [IWT Proof Points](../proof/iwt-proof-points.md)
 - Branded IP (MODULR Method, 3 Types of Boring) → [IP Pyramid](../positioning/ip-pyramid.md)
 - Revenue focus, not engagement metrics → [Revenue > Vanity Metrics](../positioning/spiky-povs.md)

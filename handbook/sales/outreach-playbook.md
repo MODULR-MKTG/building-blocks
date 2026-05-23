@@ -35,7 +35,7 @@ source: Ship 30 for 30
 Hey [Name],
 
 I run email at I Will Teach You To Be Rich (10M emails/month)
-and track ~80 creator brands through a side project I run.
+and track dozens of strong email programs through side projects and client work.
 
 Ran your [sequence type] through our framework and wanted to flag something:
 
@@ -68,7 +68,7 @@ P.S. [One more specific callout or compliment]
 ## Diagnosing failure
 | Symptom | Likely cause | Fix |
 |---------|--------------|-----|
-| No response to outreach | Wrong target, or too pitchy | Mid-tier creators w/ visible gaps; rewrite conversational |
+| No response to outreach | Wrong target, or too pitchy | Founder-led businesses with visible email gaps; rewrite conversational |
 | Responds but won't book | Insufficient education | More problem articulation via DM before asking |
 | Books but doesn't close | Insufficient education OR no price anchoring | Anchor to cost of inaction |
 
@@ -76,4 +76,4 @@ P.S. [One more specific callout or compliment]
 - [Sales Funnel](sales-funnel.md)
 - Free Loom Audit
 - [Discovery Call Framework](discovery-call-framework.md)
-- Creator Outreach Pipeline
+- Founder-Led Outreach Pipeline

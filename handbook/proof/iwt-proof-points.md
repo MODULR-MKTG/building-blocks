@@ -30,10 +30,10 @@ The HubSpot 2025 Year in Review for [I Will Teach You To Be Rich](../company/iwt
 ## Smart integration examples
 
 **LinkedIn bio:**
-> Email strategist | Running email programs at I Will Teach You To Be Rich (103M sends, 35.88% open rate in 2025) | Helping creator educators scale revenue through anti-boring email campaigns
+> Email strategist | Running email programs at I Will Teach You To Be Rich (103M sends, 35.88% open rate in 2025) | Building revenue-first email systems for founder-led businesses
 
 **MODULR website bio:**
-> Braden manages email operations at I Will Teach You To Be Rich, where he oversees 103M+ emails annually with industry-leading engagement rates. MODULR brings that same execution excellence to creator educators.
+> Braden manages email operations at I Will Teach You To Be Rich, where he oversees 103M+ emails annually with industry-leading engagement rates. MODULR brings that same execution excellence to founder-led businesses that want more revenue from email.
 
 ## Stats to lead with
 1. **103,212,220 emails sent** — enterprise-scale operational capability
