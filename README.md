@@ -21,7 +21,7 @@ Four words run this company. Everything else is downstream of them. → **[Read 
 
 New here? Read **[handbook/00-start-here.md](handbook/00-start-here.md)** — it's a ~30-minute reading order that takes you through how MODULR works, start to finish.
 
-## What's in the handbook
+## What's in this repo
 
 | Section | What's in it |
 |---------|--------------|
@@ -34,6 +34,16 @@ New here? Read **[handbook/00-start-here.md](handbook/00-start-here.md)** — it
 | [Offerings](handbook/offerings/) | What we sell and what it costs |
 | [Sales](handbook/sales/) | How we sell — the actual playbooks |
 | [Proof](handbook/proof/) | The credibility behind the claims |
+
+## Agent skills
+
+The handbook tells you how MODULR thinks. The skills folder tells an AI agent how to *do* the work.
+
+→ **[Browse skills](skills/)** — email strategy, positioning, operations, and research
+→ **[Skills registry](registry/skills.csv)** — searchable index of every skill with status, target user, and approval gates
+→ **[Skill breakdown for founders](docs/founder-skill-breakdown.md)** — plain-English overview of what each skill does and when to use it
+
+Each skill is harness-agnostic — it works in Claude Code, Codex, Cursor, or any agent that takes system-level instructions. See **[templates/](templates/)** to scaffold a new one.
 
 ## What's deliberately NOT here
 

@@ -1,0 +1,14 @@
+name: example-skill
+display_name: "Example Skill"
+function: "Email"                    # Email | Positioning | Operations | Research
+package_status: "draft"              # draft | ready-for-adaptation | source-backed-v1 | advanced-pattern | helper-pattern | automation-spec
+target_user: "TBD"
+agent_tools:
+  - web fetch
+  - file write
+automation_hooks: "Optional: schedule weekly, trigger on event"
+tool_dependencies:
+  - ESP or email archive source
+  - Output destination (Docs, Slack, etc.)
+approval_gates: "Human approval before external sends, client-facing shares, or source-of-truth writes."
+review_recommended: true
